@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f52c2b97.css",
+    "main.js": "/static/js/main.c9b193a4.js",
+    "static/media/logo.png": "/static/media/logo.d436fdfc34c6392074a5.png",
+    "static/media/paracetamol.PNG": "/static/media/paracetamol.943ef85708ab598186f0.PNG",
+    "static/media/aspirina.PNG": "/static/media/aspirina.051c0ed57f28e7f8e9e9.PNG",
+    "static/media/bronquisol.PNG": "/static/media/bronquisol.9386caab8702719357f7.PNG",
+    "static/media/amoxicilina.PNG": "/static/media/amoxicilina.2ba41d7f7536bd5b2169.PNG",
+    "static/media/ibuprofeno.PNG": "/static/media/ibuprofeno.e3d45ffdc4f84dd2d9f2.PNG",
+    "index.html": "/index.html",
+    "main.f52c2b97.css.map": "/static/css/main.f52c2b97.css.map",
+    "main.c9b193a4.js.map": "/static/js/main.c9b193a4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f52c2b97.css",
+    "static/js/main.c9b193a4.js"
+  ]
+}
